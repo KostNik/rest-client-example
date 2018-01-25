@@ -1,1 +1,1 @@
-# rest-client-example
+# com.edu.rest-client-example
