@@ -42,6 +42,7 @@ dependencies {
     testCompile('io.projectreactor:reactor-test')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
+// git update-index --chmod=+x gradlew
 
 //export test coverage
 jacocoTestReport {
